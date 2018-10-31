@@ -1,7 +1,6 @@
 # promise 后面继续 then 的语法糖
 
-## 首先看一下使用场景吧：
-
+## 首先看一下使用场景吧：( use-case )
 ```js
 // 例4
 getUserId()
