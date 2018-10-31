@@ -64,7 +64,7 @@ function Promise(fn) {
 这时如果promise已经执行完了，我们再给promise注册then方法就怎么都不会执行了，这个不符合预期，所以才会加入状态这种东西。更新过的代码如下
 ```
 
-下面的我的个人理解：
+## 下面的我的个人理解：
 
 ```js
 var p1 = new Promse(function() {});
