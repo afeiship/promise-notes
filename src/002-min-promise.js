@@ -1,3 +1,4 @@
+// https://www.jianshu.com/p/43de678e918a
 class Pro {
   constructor(fun) {
     this.PromiseValue = '';
