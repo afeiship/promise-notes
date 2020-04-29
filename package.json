@@ -1,0 +1,23 @@
+{
+  "name": "promise-notes",
+  "version": "1.0.0",
+  "description": "Promise notes.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/promise-notes.git"
+  },
+  "author": "afei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/promise-notes/issues"
+  },
+  "homepage": "https://github.com/afeiship/promise-notes#readme",
+  "dependencies": {
+    "@feizheng/next-node-fetch": "^1.2.4",
+    "bluebird": "^3.7.2"
+  }
+}
